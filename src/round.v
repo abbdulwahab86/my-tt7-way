@@ -27,7 +27,7 @@
 //A5/3 Round
 //No PipeLining so far
 
-module full_kasumi	(
+module tt_um_full_kasumi	(
 			output wire [127:0] kasumi_out,
 
 			input wire [63:0] Kc,
